@@ -1,0 +1,25 @@
+.fullPage{
+    background-image: url("timePattern.jpg");
+    text-align: center;
+}
+
+.heading{
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.timeBlock{
+    color: black;
+    background-color: grey;
+    display: inline-block;
+    width: 5em;
+    border: 6px dashed black;
+    border-radius: 7px;
+
+}
+
+.startBtn{
+    height: 10em;
+    width: 10em;
+
+}
